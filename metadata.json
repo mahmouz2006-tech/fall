@@ -1,0 +1,6 @@
+{
+  "name": "مدير الملفات",
+  "description": "تطبيق متكامل وحديث لإدارة واستعراض وتنظيم الملفات والتخزين مع تصنيف الملفات والبحث وعارض النصوص ومحلل الذاكرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
